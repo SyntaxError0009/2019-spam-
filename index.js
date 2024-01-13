@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
 });
 
 app.listen(3000)
-const Discord = require("discord.js-v11-fixes");
+const Discord = require("discord.js-selfbot-v13");
 const client1 = new Discord.Client();
 const client2 = new Discord.Client();
 const client3 = new Discord.Client();
